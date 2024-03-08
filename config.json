@@ -1,0 +1,8 @@
+{
+    "rtmpsvr_config": {
+        "listen_addr": ":1935"
+    },
+    "mediasvr_config": {
+        "forward_addr": "100.100.100.100:6000"
+    }
+}
